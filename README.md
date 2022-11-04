@@ -1,6 +1,8 @@
 <h1 align="center"><a href="https://hangman-game-shjz.vercel.app/"><img src="https://user-images.githubusercontent.com/52501040/200029377-d1fead14-5754-43a3-afa5-753be6fc4e09.png" alt="Hangman" width="100px" height="100px"/></a> Hangman Game</h1>
 
-**`Hangman Game` built in `React JS` which is very Popular Game has been played in their Childhood in which we have to Guess the word and if don't then the `Hangman is drawn` and if all body has drwan and we `Lose` 😔 and if not we are `Winner` 🥇.** 
+`Hangman Game` built in `React JS` which is very Popular Game has been played in their Childhood in which we have to Guess the word and if don't then the `Hangman is drawn` and if all body has drwan and we `Lose` 😔 and if not we are `Winner` 🥇.
+
+**In this `Hangman Game` you have `Tries to Guess the Word` until the Hangman's full body is drawn. The Game will Give you `Random Word` every Time ⌚ you Press `Enter key` if you `lose` from guessing the Word the Message will appear and the `Keyboard ⌨ is disbaled` when you Lose or Clicked that Key you can also type from Physical Keyboard ⌨ so, The `Word will Reveal itself if you Lose` or you are Winner 🏆!**
 
 <h2 align="center"><a href="https://hangman-game-shjz.vercel.app/" target="_blank">Do you want to Guess a Word 🎮</a></h2>
 
