@@ -77,8 +77,8 @@ function App() {
         color: '#11dd1b',
         userSelect: 'none'
       }}>
-        {isWinner && "Winner! - Refresh to  Try Again"}
-        {isLoser && "Nice Try! - Refresh to  Try Again"}
+        {isWinner && "Winner! 🏆 - Refresh to  Try Again"}
+        {isLoser && "Nice Try! 👍 - Refresh to  Try Again"}
       </div>
       <HangmanDrawing numberOfGuesses={incorrectLetters.length} />
       <HangmanWord reveal={isLoser} guessedLetters={guessedLetters} wordToGuess={wordToGuess} />
