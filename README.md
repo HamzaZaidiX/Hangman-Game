@@ -4,13 +4,13 @@
 
 **In this `Hangman Game` you have `Tries to Guess the Word` until the Hangman's full body is drawn. The Game will Give you `Random Word` every Time ⌚ you Press `Enter key` if you `lose` from guessing the Word the Message will appear and the `Keyboard ⌨ is disbaled` when you Lose or Clicked that Key you can also type from Physical Keyboard ⌨ so, The `Word will Reveal itself if you Lose` or you are Winner 🏆!**
 
-<h2 align="center"><a href="https://hangman-game-shjz.vercel.app/" target="_blank">Do you want to Guess a Word 🎮</a></h2>
+<h2 align="center"><a href="https://play-hangman-shjz.netlify.app/" target="_blank">Do you want to Guess a Word 🎮</a></h2>
 
 ### Materials Used:
 
 - <a  align="center" href="https://vitejs.dev/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" width="30px" height="30px" alt="vite js" /> Vite JS</a> 
 - <a  align="center" href="https://www.typescriptlang.org/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="30px" height="30px" alt="typescript" /> Typesrcipt</a>
-- Some CSS Styling
+- **Some CSS Styling**
 
 ### Quick Start:
 
